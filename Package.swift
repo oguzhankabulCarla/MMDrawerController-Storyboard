@@ -1,7 +1,4 @@
-//
-// Oğuzhan Kabul
-// Added For MMDrawerController-Storyboard Swift Package Dependency
-
+// swift-tools-version:5.3
 import PackageDescription
 
 let package = Package(
